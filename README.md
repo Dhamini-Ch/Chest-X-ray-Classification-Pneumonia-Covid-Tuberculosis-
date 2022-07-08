@@ -4,17 +4,17 @@
 </p>
 <p>Since the given dataset contains X-ray images with different resolutions, the dataset is preprocessed to images with the resolution of 256x256 RGB images.</p>
 <p>For the classification 3 different algorithms were used: </p>
-/*
- * Random Forest Classifier
- * CNN
- * CNN with EfficientNetB0 architecture
-*/
+
+  * Random Forest Classifier
+  * CNN
+  * CNN with EfficientNetB0 architecture
 
 
 
-/*:
+
+
   * 'COVID19'       : 0
   *  'NORMAL'        : 1
   *  'PNEUMONIA'     : 2
   *  'TURBERCULOSIS' : 3
-*/
+
