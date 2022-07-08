@@ -10,12 +10,14 @@
   * CNN with EfficientNetB0 architecture
 
 <p>You can download EfficientNetB0: </p>
-``` !pip install keras_efficientnets ``` or 
+
+` !pip install keras_efficientnets ` or 
 `conda install -c anaconda efficientnet`
 
 
 <p>Classification of the images: </p>
-   * 'COVID19'       : 0
+
+   * 'COVID19'        : 0
    *  'NORMAL'        : 1
    *  'PNEUMONIA'     : 2
    *  'TURBERCULOSIS' : 3
