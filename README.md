@@ -21,4 +21,3 @@
    *  'NORMAL'        : 1
    *  'PNEUMONIA'     : 2
    *  'TURBERCULOSIS' : 3
-
